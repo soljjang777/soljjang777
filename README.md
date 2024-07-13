@@ -22,8 +22,7 @@
 
    <!--****************************언어와툴************************************--> 
   <h3 align=center>⚔ Languages & Tool</h3> <hr>
-  <div align=center>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=F5F5F5"/>                                                                               
+  <div align=center>                                                                              
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=F5F5F5"/>
   <img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=JavaScript&logoColor=F5F5F5"/>
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=F5F5F5"/>
