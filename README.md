@@ -84,3 +84,8 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
   <img src="https://img.shields.io/badge/amazonaws-232F3E.svg?style=flat&logo=amazonaws&logoColor=white"/>
 </div>
 <br/> 
+
+<!--****************************고정 핀************************************--> 
+<hr>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-Loopy&repo=marbles)
