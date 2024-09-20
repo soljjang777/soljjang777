@@ -19,26 +19,64 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
 <!--**********************티스토리 블로그***************************--> 
 <div align=left>
  <a href="https://solsolhane.tistory.com/"> 
- <img src="http://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&link=https://byul91oh.tistory.com/">
+  <img src="http://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&link=https://byul91oh.tistory.com/">
  </a> 
- 👈🏼「Tech Blog」click!
+ <a href="https://solsolhane.tistory.com/"> 
+  <img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://byul91oh.tistory.com/">
+ </a>  
+ 👈🏼click!
 </div>
+<br>
 
-   <!--****************************언어와툴************************************--> 
-  <h3 align=center>⚔ Languages & Tool</h3> <hr>
-  <div align=center>                                                                              
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=F5F5F5"/>
-  <img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=JavaScript&logoColor=F5F5F5"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=F5F5F5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=F5F5F5"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=F5F5F5"/>
-   </div> <p></p>
-   <div align=center>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=F5F5F5"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=F5F5F5"/>
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=F5F5F5"/>
-   </div> <p></p>
-   
+
+<!--****************************언어와툴************************************--> 
+<hr>
+<h3>Languages & Databases</h3>
+<div align=left>                                                                              
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=F5F5F5"/>
+  <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=F5F5F5"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=F5F5F5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=F5F5F5"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=F5F5F5"/>
+ <img src="https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
+ </div>
+ <br/>
+ 
+ <h3>Frameworks & Libraries</h3>
+ <div align=left>
+  <img src="https://img.shields.io/badge/vuedotjs-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+ </div> 
+ <br/>  
+
+ <h3>Development Tools & Application Servers</h3>
+ <div align=left>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=F5F5F5"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=F5F5F5"/>
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=F5F5F5"/>
+ </div> 
+ <br/> 
+
+ <h3>Version Control & CI/CD & Project Management Tools</h3>
+ <div align=left>
+   <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
+ </div> 
+ <br/> 
+
+<h3>DevOps Tools & Infrastructure & Monitoring Logging</h3>
+<div align=left>
+  <img src="https://img.shields.io/badge/elasticstack-005571.svg?&style=for-the-badge&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/terraform-844FBA.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vmware-607078.svg?&style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div> 
+<br/> 
+ 
  <div align=center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoljjang777&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
