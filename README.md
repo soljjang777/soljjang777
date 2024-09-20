@@ -1,24 +1,28 @@
- <hr>
  
- # Hello I'm soljjang777🤘🏼
- <!--**********************티스토리 블로그***************************--> 
-<div align=right>
- 
- <a href="https://solsolhane.tistory.com/"> 
-<img src="http://img.shields.io/badge/Tech Blog-FBE5E5?style=flat-square&logo=github&link=https://byul91oh.tistory.com/">
-</a> 👈🏼click!
- 
- </div>
- <!--****************************깃허브통계************************************--> 
+ # Hello I'm SolRi Noh🤘🏼
+
+<!--****************************인사말************************************--> 
 <div width=50%>  
- 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soljjang777&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ Hello, <br/>
+I am studying hard with the goal of becoming a DevOps developer. ✨　<br/>
+I love development and Japanese culture. <br/>
+My favorite food is pork belly, and my hobbies are watching Japanese dramas and movies. 🎞🖥　<br/><br/><br/>
+
+こんにちは、 <br/>
+私はDevOps開発者を目指して一生懸命勉強しています。✨ <br/>
+開発と日本文化が大好きです。<br/>
+好きな食べ物はサムギョプサルで、趣味は日本のドラマや映画を見ることです。🎞🖥　<br/>
+宜しくお願い致します。<br/>
 </div>
-<div width=50%>
-            
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soljjang777&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
- </div> 
+<br/>
+
+<!--**********************티스토리 블로그***************************--> 
+<div align=left>
+ <a href="https://solsolhane.tistory.com/"> 
+ <img src="http://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&link=https://byul91oh.tistory.com/">
+ </a> 
+ 👈🏼「Tech Blog」click!
+</div>
 
    <!--****************************언어와툴************************************--> 
   <h3 align=center>⚔ Languages & Tool</h3> <hr>
