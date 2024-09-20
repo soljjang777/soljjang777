@@ -38,21 +38,29 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=F5F5F5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=F5F5F5"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=F5F5F5"/>
- <img src="https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
  </div>
  <br/>
  
- <h3>Frameworks & Libraries</h3>
- <div align=left>
+<h3>Frameworks & Libraries</h3>
+<div align=left>
   <img src="https://img.shields.io/badge/vuedotjs-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
- </div> 
- <br/>  
+  <img src="https://img.shields.io/badge/junit5-25A162.svg?&style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jpa-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mybatis-007396.svg?&style=for-the-badge&logo=mybatis&logoColor=white"/>
+   <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gradle-02303A.svg?&style=for-the-badge&logo=gradle&logoColor=white"/>
+</div> 
+<br/>
+
 
  <h3>Development Tools & Application Servers</h3>
  <div align=left>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=F5F5F5"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=F5F5F5"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=F5F5F5"/>
+  <img src="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=F5F5F5"/>
  </div> 
  <br/> 
