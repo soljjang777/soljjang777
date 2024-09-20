@@ -18,11 +18,13 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
 
 <!--**********************티스토리 블로그***************************--> 
 <div align=left>
-  <img src="http://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&link=https://solsolhane.tistory.com/">
- <a href="https://solsolhane.tistory.com/"> 
-  <img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://byul91oh.tistory.com/">
- </a>  
- 👈🏼click!
+<a href="https://solsolhane.tistory.com/" target="_blank">
+  <img src="http://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory" alt="Tistory Badge"/>
+</a>
+<a href="https://solsolhane.tistory.com/"> 
+  <img src="https://img.shields.io/badge/instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+</a>  
+👈🏼click!
 </div>
 <br>
 
