@@ -90,6 +90,7 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
 <hr>
 <h2>My Portfolio</h2>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solri-s-Portfolio&repo=Project)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solri-s-Portfolio&repo=Study)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solri-s-Portfolio&repo=Project)](https://github.com/Solri-s-Portfolio/Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solri-s-Portfolio&repo=Study)](https://github.com/Solri-s-Portfolio/Study)
+
 
