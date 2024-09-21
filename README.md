@@ -62,6 +62,8 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=F5F5F5"/>
   <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=F5F5F5"/>
+  <img src="https://img.shields.io/badge/postman-FF6C37.svg?&style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swagger-85EA2D.svg?&style=flat&logo=swagger&logoColor=white"/>
 </div>
 <br/>
 
