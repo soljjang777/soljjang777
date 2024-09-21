@@ -87,5 +87,8 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
 
 <!--****************************고정 핀************************************--> 
 <hr>
+<h3>My Portfolio</h3>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-Loopy&repo=marbles)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solri-s-Portfolio&repo=Project)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solri-s-Portfolio&repo=Study)
+
