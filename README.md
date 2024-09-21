@@ -31,6 +31,7 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoljjang777&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--****************************언어와툴************************************--> 
 <hr>
+<h2>Stack</h2>
 <h3>Languages & Databases</h3>
 <div align=left>                                                                              
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=F5F5F5"/>
@@ -87,7 +88,7 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
 
 <!--****************************고정 핀************************************--> 
 <hr>
-<h3>My Portfolio</h3>
+<h2>My Portfolio</h2>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solri-s-Portfolio&repo=Project)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solri-s-Portfolio&repo=Study)
