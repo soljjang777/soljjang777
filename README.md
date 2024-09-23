@@ -1,5 +1,6 @@
  
- # Hello I'm SolRi Noh🤘🏼
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=A594F9&background=F5EFFF00&width=435&lines=Hello+I'm+SolRi+Noh%F0%9F%A4%98%F0%9F%8F%BC)](https://git.io/typing-svg)
+<hr>
 
 <!--****************************인사말************************************--> 
 <div width=50%>  
