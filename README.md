@@ -89,6 +89,8 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
 </div>
 <br/> 
 
+[![rankit-badge](https://badge.rankit.run/badge?name=soljjang777)](https://www.rankit.run)
+
 <!--****************************고정 핀************************************--> 
 <hr>
 <h2>My Portfolio</h2>
