@@ -84,7 +84,6 @@ My favorite food is pork belly, and my hobbies are watching Japanese dramas and 
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=flat&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/terraform-844FBA.svg?style=flat&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vmware-607078.svg?style=flat&logo=vmware&logoColor=white"/>
   <img src="https://img.shields.io/badge/amazonaws-232F3E.svg?style=flat&logo=amazonaws&logoColor=white"/>
 </div>
 <br/> 
